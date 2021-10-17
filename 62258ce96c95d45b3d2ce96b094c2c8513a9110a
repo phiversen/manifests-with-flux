@@ -1,0 +1,1 @@
+{"jobID":"9729e5f8-b793-7a58-be7e-853a9b4d1afe","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"laman:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
